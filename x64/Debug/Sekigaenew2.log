@@ -1,0 +1,5 @@
+﻿  SekigaeProcess.cpp
+C:\OneDrive\Sourcecode\Sekigaenew2\SekigaeProcess.cpp(224,33): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\OneDrive\Sourcecode\Sekigaenew2\SekigaeProcess.cpp(226,33): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\OneDrive\Sourcecode\Sekigaenew2\SekigaeProcess.cpp(228,33): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+  Sekigaenew2.vcxproj -> C:\OneDrive\Sourcecode\Sekigaenew2\x64\Debug\Sekigaenew2.exe

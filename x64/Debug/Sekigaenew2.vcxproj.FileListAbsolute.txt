@@ -1,3 +1,0 @@
-C:\OneDrive\Sourcecode\Sekigaenew2\x64\Debug\Sekigaenew2.exe
-C:\OneDrive\Sourcecode\Sekigaenew2\x64\Debug\Sekigaenew2.pdb
-C:\OneDrive\Sourcecode\Sekigaenew2\x64\Debug\仮置き場.htm
